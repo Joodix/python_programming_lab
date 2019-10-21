@@ -12,7 +12,7 @@ pepps.color("blue")
 
 mary = turtle.Turtle()
 mary.shape("turtle")
-mary.color("green")
+mary.color("red")
 
 pepps.up()
 pepps.goto(-500, 20)
