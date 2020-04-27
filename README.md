@@ -1,2 +1,2 @@
-# python_programming_lab
+# python_lab
 Python exercises, mostly taken from the book "How to Think like a Computer Scientist".
